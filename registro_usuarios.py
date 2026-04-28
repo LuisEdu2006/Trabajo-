@@ -85,7 +85,7 @@ def main():
             print("\n👋 ¡Hasta luego!")
             break
         else:
-            print("❌ Opción inválida")
+            print("❌ Opción no disnonible, intente nuevamente")
 
 if __name__ == "__main__":
     main()
